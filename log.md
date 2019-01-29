@@ -48,7 +48,7 @@ I made some progress through THe Odin Project and Free Code Camp. I'm just takin
 :sparkles: 01 - The Basics :sparkles:
 
 - [x] How this Course Will Work
-- [x]  Introduction to Web Development
+- [x] Introduction to Web Development
 - [x] Gearing Up
 - [x] Join the Odin Community
 - [x] How Does the Web Work?
