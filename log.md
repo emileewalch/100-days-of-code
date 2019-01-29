@@ -38,3 +38,51 @@ I'll be kicking this off likely next week to ensure that I'm set up for success 
 ### **LINKS TO WORK:** 
 1. [The Odin Project - Web Development 101](https://www.theodinproject.com/courses)
 2. [Free Code Camp - Responsive Web Design Certification](https://learn.freecodecamp.org)
+
+## DAY 1/100: January 29, 2019 (Tuesday)
+
+### **TODAY'S PROGRESS:**
+I made some progress through THe Odin Project and Free Code Camp. I'm just taking in all the intro content from an introduction to the command line to some actionable HTML cat page building. Here's what I finished up:
+
+**THE ODIN PROJECT - WEB DEV 101**
+:sparkles: 01 - The Basics :sparkles:
+
+- [x] How this Course Will Work
+- [x]  Introduction to Web Development
+- [x] Gearing Up
+- [x] Join the Odin Community
+- [x] How Does the Web Work?
+
+**FREE CODE CAMP - RESPONSIVE WEB DEV CERTIFICATION**
+:sparkles: 01 - Basic HTML & HTML5 :sparkles:
+
+- [x] Say Hello to HTML Elements
+- [x] Headline with the h2 Element
+- [x] Inform with the Paragraph Element
+- [x] Fill in the Blank with Placeholder Text
+- [x] Uncomment HTML
+- [x] Comment out HTML
+- [x] Delete HTML Elements
+- [x] Introduction to HTML5 Elements
+- [x] Add Images to Your Website
+- [x] Link to External Pages with Anchor Elements
+- [x] Link to Internal Sections of a Page with Anchor Elements
+- [x] Nest an Anchor Element within a Paragraph
+- [x] Make Dead Links Using the Hash Symbol
+- [x] Turn an Image into a Link
+- [x] Create a Bulleted Unordered List
+- [x] Create an Ordered List
+- [x] Create a Text Field
+- [x] Add Placeholder Text to a Text Field
+- [x] Create a Form Element
+
+### **THOUGHTS:**
+So far, everything has been pretty good. I'm just getting going so hopefully I'll gain some speed with my progress over time. It's fun to learn for learning sake for once.
+
+The HTML has felt like a breeze so far and is building off of things that I already knew from years of blogging, customizing my MySpace and Livejournal themes _(not kidding, who else got started with intro level HTML/CSS this way?!)_, and doing some light Wordpress development here and there, mostly fiddling with custom CSS.
+
+The command line stuff I'm about to start is exciting since it's new and shiny to me. I've only ever used Terminal to run a python script or two to automate some processes at work so I'm excited to learn more about how that all works and how else I can leverage it in my day to day.
+
+### **LINKS TO WORK:** 
+1. [The Odin Project - Web Development 101](https://www.theodinproject.com/courses)
+2. [Free Code Camp - Responsive Web Design Certification](https://learn.freecodecamp.org)
