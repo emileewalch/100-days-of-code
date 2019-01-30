@@ -13,7 +13,7 @@ I'm starting this brand spanking new with no experience other than some HTML ema
 The first things I am going to try to tackle in an hour a day are courses/certifications from The Odin Project and Free Code Camp outlined below (I will keep this top list updated as I progress over time):
 
 **The Odin Project - Web Development 101**
-- [ ] The Basics
+- [x] The Basics
 - [ ] Installation
 - [ ] Git Basics
 - [ ] The Front End
@@ -24,7 +24,7 @@ The first things I am going to try to tackle in an hour a day are courses/certif
 - [ ] Tying it All Together
 	
 **Free Code Camp - Responsive Web Design Certification**
-- [X] Basic HTML and HTML5
+- [x] Basic HTML and HTML5
 - [ ] Basic CSS
 - [ ] Applied Visual Design
 - [ ] Applied Accessibility
