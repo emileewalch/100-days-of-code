@@ -42,7 +42,7 @@ I'll be kicking this off likely next week to ensure that I'm set up for success 
 ## DAY 1/100: January 29, 2019 (Tuesday)
 
 ### **TODAY'S PROGRESS:**
-I made some progress through THe Odin Project and Free Code Camp. I'm just taking in all the intro content from an introduction to the command line to some actionable HTML cat page building. Here's what I finished up:
+I made some progress through The Odin Project and Free Code Camp. I'm just taking in all the intro content from an introduction to the command line to some actionable HTML cat page building. Here's what I finished up:
 
 **THE ODIN PROJECT - WEB DEV 101**
 :sparkles: 01 - The Basics :sparkles:
@@ -86,3 +86,42 @@ The command line stuff I'm about to start is exciting since it's new and shiny t
 ### **LINKS TO WORK:** 
 1. [The Odin Project - Web Development 101](https://www.theodinproject.com/courses)
 2. [Free Code Camp - Responsive Web Design Certification](https://learn.freecodecamp.org)
+
+## DAY 2/100: January 30, 2019 (Wednesday)
+
+### **TODAY'S PROGRESS:**
+I made some more progress on Free Code Camp today. The HTML/HTML5 section is now **complete!** 
+
+Here's what I finished up:
+
+**FREE CODE CAMP - RESPONSIVE WEB DEV CERTIFICATION**
+:sparkles: 01 - Basic HTML & HTML5 :sparkles:
+
+- [x] Add a Submit Button to a Form
+- [x] Use HTML5 to Require a Field
+- [x] Create a Set of Radio Buttons
+- [x] Create a Set of Checkboxes
+- [x] Check Radio Buttons and Checkboxes by Default
+- [x] Nest Many Elements within a Single div Element
+- [x] Declare the Doctype of an HTML Document
+- [x] Define the Head and Body of an HTML Document
+
+### **THOUGHTS:**
+I felt really comforatble with the HTML/HTML5 portion of this course. It wasn't challenging but I did learn about radio buttons/checkboxes which isn't something I've had to learn before.
+
+I'm looking forward to moving on to CSS next!
+
+### **LINKS TO WORK:** 
+1. [Free Code Camp - Responsive Web Design Certification](https://learn.freecodecamp.org)
+
+
+## TEMPLATE - DAY #/100: Month DD, YYYY (Day of Week)
+
+### **TODAY'S PROGRESS:**
+Something
+
+### **THOUGHTS:**
+Something
+
+### **LINKS TO WORK:** 
+1. [Link 1](https://www.websitehere.com)
